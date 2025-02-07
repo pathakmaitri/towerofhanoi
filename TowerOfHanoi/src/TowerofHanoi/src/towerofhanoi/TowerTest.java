@@ -1,5 +1,4 @@
-package towerofhanoi;
-import student.TestCase;
+package towerofhanoi;  
 // -------------------------------------------------------------------------
 //Virginia Tech Honor Code Pledge:
 //
